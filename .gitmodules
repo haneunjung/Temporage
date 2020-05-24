@@ -1,3 +1,6 @@
 [submodule "temporage-front"]
 	path = temporage-front
 	url = https://github.com/haneunjung/temporage-front
+[submodule "temporage-back"]
+	path = temporage-back
+	url = https://github.com/haneunjung/temporage-back
